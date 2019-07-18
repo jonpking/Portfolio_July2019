@@ -1,9 +1,18 @@
-#headerText {
+.hero {
+    padding: 0 0 20px 0;
+}
+
+#headerTextOver {
     margin: -30px auto 20px auto;
 }
 
+#headerTextUnder {
+    margin: -30px auto 20px auto;
+    text-align: center;
+}
+
 #portrait {
-    margin: -64px auto 30px auto;
+    margin: -70px auto 30px auto;
     border-radius: 50%;
     width: 150px;
     height: 150px;
