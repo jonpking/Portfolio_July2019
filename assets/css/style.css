@@ -3,13 +3,13 @@ html {
 }
 
 body {
-    background-color: #f4d4b0;
+    background-color: #f2ca9d;
 }
 
 .hero {
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     padding: 0 0 20px 0;
-    background-color: #00b5a8;
+    background-color: #31c3c4;
 }
 
 #headerTextOver {
@@ -38,7 +38,7 @@ body {
 }
 
 .card-header {
-    background-color: #4ac3d3;
+    background-color: #2cb9cc;
 }
 
 .card-header-title {
@@ -50,7 +50,7 @@ body {
 }
 
 .card-content {
-    background-color: #ffe8b7;
+    background-color: #fff2d6;
 }
 
 h1 {
