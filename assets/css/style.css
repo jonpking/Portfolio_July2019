@@ -59,6 +59,15 @@ body {
 
 h1 {
     text-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    font-weight: bolder;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+h6 {
+    font-weight: bolder;
 }
 
 .projectImage {
