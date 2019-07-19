@@ -65,8 +65,11 @@ h1 {
     width: 200px;
     height: 200px;
     object-fit: cover;
+    justify-self: right;
 }
 
-.level {
-    margin: 0 50px 0 50px;
+.projectItem {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
