@@ -1,6 +1,15 @@
+html {
+    color: #050505;
+}
+
+body {
+    background-color: #f4d4b0;
+}
+
 .hero {
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     padding: 0 0 20px 0;
+    background-color: #00b5a8;
 }
 
 #headerTextOver {
@@ -26,4 +35,24 @@
     border: none;
     height: 30px;
     background-color: black;
+}
+
+.card-header {
+    background-color: #4ac3d3;
+}
+
+.card-header-title {
+    text-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card-content {
+    background-color: #ffe8b7;
+}
+
+h1 {
+    text-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
